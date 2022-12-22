@@ -1,1 +1,3 @@
-# API_Red_electrica_esp_REData
+# Ejemplo de uso de la API de Red Electrica Española 
+
+ver ```main.py```
